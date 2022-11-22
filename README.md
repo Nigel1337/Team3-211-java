@@ -4,7 +4,9 @@
 ### Feature List
 
 ### Revised UML Diagram
-![The UML diagram](CSC 211- UML diagram- UMLdiagram.drawio.png)
+![The UML diagram](uml.png)
+
+### Screenshots and a short video
 
 ## Project Proposal
 An aim Trainer is a tool many professional video game players use to improve their Aim(The mouse movements in an fps).
