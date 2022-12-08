@@ -23,6 +23,7 @@ It Displays data on the students, teachers, and there schedule.
 ![The UML diagram](Schedule.png)
 ![The UML diagram](Students.png)
 ![The UML diagram](Dashboard.png)
+![The UML diagram](Dashboard.png)
 
 
 
