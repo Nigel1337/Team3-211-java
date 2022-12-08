@@ -20,11 +20,11 @@ It Displays data on the students, teachers, and there schedule.
 
 ### Screenshots and a short video
 
-![The UML diagram](Schedule.png)
-![The UML diagram](Students.png)
-![The UML diagram](Dashboard.png)
-![The UML diagram](Mainpage.png)
-![The UML diagram](java.mp4)
+![pic's](Schedule.png)
+![pic's](Students.png)
+![pic's](Dashboard.png)
+![pic's](Mainpage.png)
+![video](java.mp4)
 
 
 
