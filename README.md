@@ -4,7 +4,7 @@
 ### Feature List
 
 ### Revised UML Diagram
-![The UML diagram](uml.png)
+![The UML diagram](team3java.drawio.png)
 
 ### Screenshots and a short video
 
