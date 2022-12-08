@@ -1,7 +1,7 @@
 # Team3 CSC 211 Project
 ## Final Project Submission
-The project was pushed onto the 
-![Master file](master)
+The project was pushed into another branch and could be viewed in branchs.
+
 master
 ### Theme
 We created a School Management Application called SchoolManager. With the uses of java, Scene Builder,and Css.
