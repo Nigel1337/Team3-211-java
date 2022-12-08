@@ -20,7 +20,9 @@ It Displays data on the students, teachers, and there schedule.
 
 ### Screenshots and a short video
 
-
+![The UML diagram](team3java.drawio.png)
+![The UML diagram](team3java.drawio.png)
+![The UML diagram](team3java.drawio.png)
 
 
 
