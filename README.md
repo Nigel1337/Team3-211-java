@@ -17,6 +17,15 @@ It Displays data on the students, teachers, and there schedule.
 
 ### Screenshots and a short video
 
-## Project Proposal
+
+
+
+
+
+
+_________________________________________________________________________________________________________________________
+
+
+## old Project Proposal
 An aim Trainer is a tool many professional video game players use to improve their Aim(The mouse movements in an fps).
 With this program, we as a group will be able to show our understanding of methods, classes, inheritance, overriding, etc.
